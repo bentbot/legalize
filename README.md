@@ -1,6 +1,6 @@
 # Legalize
 
-Weed is being legalized in Canada. This website lets users cast a ballot to represent a vote.
+Weed is being legalized in Canada. This website lets users cast a ballot to represent a vote. http://isweedlegalyet.ca
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
 With the use of a NodeJS backend located in `index.js`, this Angular project operates as a self-contained cloud application. 
